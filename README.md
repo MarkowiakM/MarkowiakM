@@ -37,10 +37,10 @@ Frontend
 ![Redux](https://img.shields.io/badge/Redux-1a1330?style=flat-square&logo=redux&logoColor=a78bfa)
 ![Zustand](https://img.shields.io/badge/Zustand-1a1330?style=flat-square&logo=react&logoColor=a78bfa)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-1a1330?style=flat-square&logo=tailwindcss&logoColor=a78bfa)
+![shadcnui](https://img.shields.io/badge/shadcn%2Fui-1a1330?style=flat-square&logo=shadcnui&logoColor=a78bfa)
 ![Vite](https://img.shields.io/badge/Vite-1a1330?style=flat-square&logo=vite&logoColor=a78bfa)
 ![Jest](https://img.shields.io/badge/Jest-1a1330?style=flat-square&logo=jest&logoColor=a78bfa)
 ![Cypress](https://img.shields.io/badge/Cypress-1a1330?style=flat-square&logo=cypress&logoColor=a78bfa)
-![shadcnui](https://img.shields.io/badge/shadcn%2Fui-1a1330?style=flat-square&logo=shadcnui&logoColor=a78bfa)
 
 Tools & Infrastructure
 
