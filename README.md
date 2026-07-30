@@ -19,6 +19,8 @@ Backend
 ![Django](https://img.shields.io/badge/Django-1a1330?style=flat-square&logo=django&logoColor=a78bfa)
 ![DRF](https://img.shields.io/badge/DRF-1a1330?style=flat-square&logo=django&logoColor=a78bfa)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1a1330?style=flat-square&logo=fastapi&logoColor=a78bfa)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1a1330?style=flat-square&logo=sqlalchemy&logoColor=a78bfa)
+![Alembic](https://img.shields.io/badge/Alembic-1a1330?style=flat-square&logo=alembic&logoColor=a78bfa)
 ![Java](https://img.shields.io/badge/Java-1a1330?style=flat-square&logo=openjdk&logoColor=a78bfa)
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-1a1330?style=flat-square&logo=springboot&logoColor=a78bfa)
 ![NodeJS](https://img.shields.io/badge/Node.js-1a1330?style=flat-square&logo=nodedotjs&logoColor=a78bfa)
