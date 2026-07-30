@@ -8,7 +8,7 @@
 
 [![See my portfolio](https://img.shields.io/badge/See_my_portfolio-8B5CF6?style=for-the-badge&logoColor=white)](https://markowiakm.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1330?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://www.linkedin.com/in/mariamarkowiak/)
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-1a1330?style=for-the-badge&logo=leetcode&logoColor=a78bfa)](https://leetcode.com/u/markowiakm/)
 <h2></h2>  
 
 ### Stack
